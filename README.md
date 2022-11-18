@@ -13,4 +13,14 @@ Practica pendiente Trabajando con puerto serial
 
 Ver la comprovacion
 
-[Video de Loom](https://www.loom.com/share/6dafaaebf7af4fbfbe710ec4eecc6063)
+Comprovacion 1
+
+[Video de Loom](https://www.loom.com/share/0e35849bb28a4c89b73ad9eb862751f0)
+
+Comprovacion 2
+
+
+[Video de Loom](https://www.loom.com/share/03d8be9e659c476aa983ce1448871076)
+
+
+Lo tuve que hacer en 2 por fallas al grabar
